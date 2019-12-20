@@ -8,9 +8,9 @@ public class MazeTest {
 
     @Test
     public void maze0() {
-        List<List<Integer>> maze =
+        //List<List<Integer>> maze =
         MazeSolve mazeSolve = new MazeSolve();
-        mazeSolve.
+        //mazeSolve.
     }
 
 }
