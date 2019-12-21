@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mtelecom.vanhack</groupId>
-  <artifactId>vowelsubstring</artifactId>
+  <artifactId>vanhack</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>vowelsubstring</name>
